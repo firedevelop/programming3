@@ -1,1 +1,6 @@
-select *
+select * all
+
+
+
+
+
