@@ -1,6 +1,1 @@
-select * all;
-
-
-
-
-
+select * from users;
